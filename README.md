@@ -24,7 +24,7 @@
 ## Probar el proyecto e interactuar con la consola
 
 ```doteenv --> Genera una campaña
-  php bin/console app:create-campaign- 
+php bin/console app:create-campaign- 
 ```
 ```doteenv --> Listado de camapañas
 php bin/console app:list-campaigns
